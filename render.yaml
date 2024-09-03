@@ -1,9 +1,0 @@
-# Exported from Render on 2024-09-03T03:13:20Z
-services:
-- type: web
-  name: Visual_Sort
-  runtime: static
-  repo: https://github.com/Davender-1565/VisualSort
-  staticPublishPath: .
-  rootDir: ./
-version: "1"
